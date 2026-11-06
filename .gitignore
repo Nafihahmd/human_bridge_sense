@@ -1,0 +1,10 @@
+# ESP-IDF
+build/
+sdkconfig
+sdkconfig.old
+
+# VS Code
+.vscode/
+
+# Python testing framework
+__pycache__/
